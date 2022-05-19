@@ -3,7 +3,7 @@ Pet Project done as a response to the coding4employment challenge by JA Kenya
 
 # BACKGROUND TO THE MENTORSHIP PROGRAM & CHALLENGE
 
-Back in 2020, I registered and participated in the Coding4Employment(CfE) mentorship program facilitated by Junior Achievers(JA) Kenya. The trainings were around foundations of software development and IT Support fundamentals. As the process was ongoing, we had a challenge/hackathon week dubbed #CodingForEmploymentChallengeWeek
+Back in 2021, I registered and participated in the Coding4Employment(CfE) mentorship program facilitated by Junior Achievers(JA) Kenya. The trainings were around foundations of software development and IT Support fundamentals. As the process was ongoing, we had a challenge/hackathon week dubbed #CodingForEmploymentChallengeWeek
 
 # BACKGROUND TO THE CHALLENGE/HACKATHON
 Challenge: Assuming that you are the owner of an SME that ventures in a business of your choice. Make further assumptions on the same.
