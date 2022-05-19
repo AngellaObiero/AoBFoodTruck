@@ -7,6 +7,7 @@ Back in 2020, I registered and participated in the Coding4Employment(CfE) mentor
 
 # BACKGROUND TO THE CHALLENGE/HACKATHON
 Challenge: Assuming that you are the owner of an SME that ventures in a business of your choice. Make further assumptions on the same.
+
 i. The SME has been in operation for over 1 year
 
 ii. The SME needs to double its client base
