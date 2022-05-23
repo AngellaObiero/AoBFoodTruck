@@ -1,5 +1,5 @@
 # AoBFoodTruck
-Pet Project done as a response to the coding4employment challenge by JA Kenya
+Awarded 3rd best project - Pet Project done as a response to the coding4employment challenge by JA Kenya
 
 # BACKGROUND TO THE MENTORSHIP PROGRAM & CHALLENGE
 
